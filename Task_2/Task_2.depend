@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
-1753338903 source:c:\users\student\desktop\22-48080-2 rajbir compiler lab-2\task_2\main.cpp
+1754540721 source:c:\users\user\desktop\com desgn lab-3\task_2\main.cpp
 	<iostream>
+	<fstream>
 
